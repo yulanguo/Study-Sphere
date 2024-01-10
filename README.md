@@ -8,4 +8,4 @@ Instructions to get started:
  - XCode
  - Use iPhone 15 - iOS 17.0
 
-Link to High Fidelity Prototype: https://www.figma.com/file/AwkJV4SCviMZyCVtwm851o/Deliverable-3---Figma-Prototype?type=design&node-id=0%3A1&mode=design&t=dgXZlr4UcKMF7q6S-1
+High Fidelity Prototype: https://www.figma.com/file/AwkJV4SCviMZyCVtwm851o/Deliverable-3---Figma-Prototype?type=design&node-id=0%3A1&mode=design&t=dgXZlr4UcKMF7q6S-1
