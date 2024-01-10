@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "password": "test",
+    "name": "Bridges Hubbard",
+    "email": "strong@gmail.com",
+    "username": "hyde",
+    "courses_classes": {
+      "comp3511": ["TH16A", "W16A"],
+      "comp3121": ["M16A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "2",
+    "password": "test",
+    "name": "Waller Gomez",
+    "email": "espinoza@gmail.com",
+    "username": "kaitlin",
+    "courses_classes": {
+      "comp3511": ["TH16A", "W16A"],
+      "comp3121": ["M16A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "3",
+    "password": "test",
+    "name": "Lou Huber",
+    "email": "daugherty@gmail.com",
+    "username": "potter",
+    "courses_classes": {
+      "comp3511": ["TH16A", "W16A"],
+      "comp3121": ["M16A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "4",
+    "password": "test",
+    "name": "Clark Guzman",
+    "email": "brigitte@gmail.com",
+    "username": "patty",
+    "courses_classes": {
+      "comp3511": ["TH16A", "W16A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "5",
+    "password": "test",
+    "name": "Peck Frost",
+    "email": "marsh@gmail.com",
+    "username": "elsie",
+    "courses_classes": {
+      "comp3511": ["TH16A"],
+      "comp4511": ["T12A", "W13A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "6",
+    "password": "test",
+    "name": "Zelma Kirk",
+    "email": "kelli@gmail.com",
+    "username": "hood",
+    "courses_classes": {
+      "comp3511": ["TH16A"],
+      "comp4511": ["T12A", "W13A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "7",
+    "password": "test",
+    "name": "Vaughan Owens",
+    "email": "meyer@gmail.com",
+    "username": "summers",
+    "courses_classes": {
+      "comp4511": ["W13A"],
+      "comp3121": ["W9A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  },
+  {
+    "id": "8",
+    "password": "test",
+    "name": "Robbins Sloan",
+    "email": "roberts@gmail.com",
+    "username": "michael",
+    "courses_classes": {
+      "comp4511": ["W13A"],
+      "comp3121": ["W9A"]
+    },
+    "availabilities": {
+      "16/11/2023": ["7am", "9am", "12pm"],
+      "24/11/2023": ["10am", "11am", "1pm"]
+    }
+  }
+]
