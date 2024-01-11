@@ -1,5 +1,5 @@
 Instructions to get started:
- - Git clone <git-url>
+ - open in VSCode
  - cd into comp4511-study-sphere
  - npx expo install
  - npx expo start
